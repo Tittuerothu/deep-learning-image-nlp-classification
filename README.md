@@ -59,8 +59,9 @@ The project evaluates model performance, transfer learning strategies, fine-tuni
 ## Repository Structure
 
 ```bash
-ass1_group7_notebook.ipynb
 README.md
+deep-learning-image-nlp-classification.ipynb
+requirements.txt
 ```
 
 ## Author
