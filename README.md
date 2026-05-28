@@ -3,6 +3,7 @@
 ## Overview
 
 This project explores deep learning techniques for both image classification and natural language processing (NLP) tasks using TensorFlow and Keras.
+
 Note : (Dataset available upon request)
 The research compares multiple deep learning architectures, including:
 
