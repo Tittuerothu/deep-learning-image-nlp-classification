@@ -1,12 +1,12 @@
 Dataset available upon request.
 
-## Dataset Information
+Dataset Information
 
 This project uses:
 
-* AG News dataset from HuggingFace
-* Jurassic Park Dinosaurs dataset from Kaggle
-* Additional open-source image samples for experimentation
+- AG News dataset from HuggingFace
+- Jurassic Park Dinosaurs dataset from Kaggle
+- Additional open-source image samples for experimentation
 
 Datasets are not included in this repository due to file size limitations.
 
